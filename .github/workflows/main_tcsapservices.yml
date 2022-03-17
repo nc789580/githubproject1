@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tcsapservices'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E633A346ACA6473FB970D318DD311CD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97F1C5C63D9848D3A3D505CD6971ACC0 }}
           package: .
